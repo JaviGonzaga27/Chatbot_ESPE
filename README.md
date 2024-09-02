@@ -28,6 +28,7 @@ Este proyecto es un chatbot desarrollado para la Universidad de las Fuerzas Arma
 - Pandas para manejo de datos
 
 ## Estructura del Proyecto
+```
 proyecto/
 │
 ├── backend/
@@ -64,6 +65,7 @@ proyecto/
 │
 ├── .gitignore
 └── README.md
+```
 
 ## Configuración del Proyecto
 
